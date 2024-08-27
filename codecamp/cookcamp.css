@@ -1,0 +1,203 @@
+body {
+    background-color: #FF9966;
+    padding: 0;
+    margin: 0;
+}
+.container {
+    width: 960px;
+    margin: 0 auto;
+    padding: 0;
+}
+
+header {
+    border-bottom: solid 1px #cccccc;
+    background-color: white;
+    margin: 0;
+}
+
+logo {
+    margin-left: 0;
+}
+.head-box {
+    display: flex;
+}
+
+.head-left{
+    text-align: left;
+    flex: 1;
+}
+
+form{
+    text-align: right;
+    padding-top: 30px;
+    flex: 1;
+    
+}
+
+
+
+.menu {
+    flex: 1;
+    text-align: center;
+    border-right: solid 1px;
+}
+
+.menu:last-child{
+    border-right: none;
+}
+
+a {
+    text-decoration: none;
+    display: block;
+}
+
+.picture1{
+    background-image: url(mainView.jpg);
+    background-size: cover;
+    height: 350px;
+}
+
+.nav {
+    background-color: white;
+    padding: 5px;
+    margin: 10px;
+}
+
+h1 {
+    font-size: 18px;
+}
+
+h2,h3,h4,h5,h6 {
+    font: 14px normal;
+    color: white;
+    background-image: url(dish.png);
+    background-size: 16px 16px;
+    background-repeat: no-repeat;
+    padding-left: 40px;
+    padding-bottom: 4px;
+    padding-top: 4px;
+    background-position: 15px 7px;
+    background-color: #3CB371;
+    border-radius: 15px;
+    margin-top: 0;
+}
+
+.icon2 {
+    background-image: url(arrow.png);
+    background-size: 16px 16px;
+    background-repeat: no-repeat;
+    background-position: 0px 3px;
+    padding-left: 25px;
+    border-bottom: dashed 1px
+    }
+    
+.top {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+figure {
+    margin: 0;
+    flex: 1;
+}
+
+.pic {
+    margin-left: 20px;
+}
+
+figcaption {
+    font-size: 8px;
+    white-space: nowrap;
+    text-align: center;
+}
+
+
+.indent {
+    text-indent: 16px;
+}
+
+.link{
+    text-align: right;
+}
+
+.next-icon:before {
+    content: url(arrow.png);
+    background-size: 16px 16px;
+    background-repeat: no-repeat;
+    background-position: 0px 3px;
+    padding-right: 10px;
+}
+
+.main-flex {
+    display: flex;
+}
+
+.sentense{
+    margin: 10px;
+}
+
+h {
+    color: #FFABCE;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+main-contents {
+    display: flex;
+}
+
+.navigation{
+    flex: 1.6;
+    margin-left: 0;
+    padding-left: 0;
+}
+
+.main {
+    flex: 6;
+}
+
+aside {
+    margin-top: 10px;
+    flex: 1;
+}
+
+p {
+    font-size: 14px;
+}
+
+footer {
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    border-top: solid 1px #cccccc;
+}
+
+.footer-menu {
+    width: 750px;
+    margin: 10px auto;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    
+}
+
+li {
+    border-right: solid 1px;
+    text-align: center;
+    flex: 1;
+}
+
+li:last-child {
+    border-right: none;
+}
+
+.copy {
+    width: 600px;
+    margin: 0 auto;
+    text-align: center;
+    padding-bottom: 35px;
+    
+}
