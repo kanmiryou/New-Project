@@ -1,6 +1,6 @@
 import java.util.*;
 
-
+// B076:パン屋さんの回答
 public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
