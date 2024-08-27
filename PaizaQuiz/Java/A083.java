@@ -1,5 +1,7 @@
 
 import java.util.*;
+
+// A083:商品券の有効活用の回答
 public class Main {
     
     static int maxPrice = 0;
