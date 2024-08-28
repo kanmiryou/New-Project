@@ -6,6 +6,6 @@
 【ディレクトリ構成】  
 New-Project  
 └PaizaQuiz    
-&emsp;└Java　（Paizaというすサイトにおいてスキルチェックの回答）  
+&emsp;└Java　（Paizaというサイトにおいて実施したスキルチェックの回答）  
 └codecamp　（プログラミングスクールにて作成したECサイトのデザイン）
  
