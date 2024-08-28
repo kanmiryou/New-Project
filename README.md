@@ -7,5 +7,5 @@
 New-Project  
 └PaizaQuiz    
 &emsp;└Java　（Paizaというすサイトにおいてスキルチェックの回答）  
-└cookcamp　（プログラミングスクールにて作成したECサイトのデザイン）
+└codecamp　（プログラミングスクールにて作成したECサイトのデザイン）
  
